@@ -1,0 +1,27 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "my first api with nodejs",
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "homepage": "https://github.com/danielnagercarpio/apirest#readme",
+  "bugs": {
+    "url": "https://github.com/danielnagercarpio/apirest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielnagercarpio/apirest.git"
+  },
+  "license": "ISC",
+  "author": "daniel nager carpio",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
